@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Data Science, Analysis, front-end web and business**
 
+- 🔭 Worked on **Projects in Machine Learning, NLP, Image Processing, Deep Learning**
+
 - 💬 Ask me about **Graphic Design, UI design and a Tedtalk**
 
 - 📫 How to reach me **shahsachi41@gmail.com**
